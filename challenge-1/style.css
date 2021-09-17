@@ -1,12 +1,12 @@
 body {
-    
+    background-image: url("camera.jpg");
+    background-size: cover;
 }
 
-.hero-img {
-    background-image: url("camera.jpg");
-    height: 600px;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
+ul {
+    list-style-type: none;
+}
+li {
+    display: inline;
+    color:cornsilk;
 }
